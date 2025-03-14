@@ -4,3 +4,4 @@ frontend/bun.lockb
 *.db.lock
 .DS_Store
 .venv
+.env
